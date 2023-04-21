@@ -8,3 +8,16 @@ The dataset we will be using is [**TMDB 5000 Movie Dataset**](https://www.kaggle
 1.
 2.
 3.
+
+## Problem Definition
+
+## Technology Used
+
+## Methodology
+
+## Conclusion
+
+## What did we learn from this project?
+
+## References
+
