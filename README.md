@@ -19,7 +19,7 @@ Definition of "success" - Generated revenue is higher than budget spent to produ
 1. Linear Regression
 2. Extreme Gradient Boosting (XGBoost)
 ## Conclusion
-
+While a movie's success cannot be attributed solely to either pre-production or post-production elements, a combination of both factors can potentially determine its outcome (R^2 value of 0.9264 of performing XGBoost on both pre & post-production elements indicates that they have a strong correlation). This underscores the importance of utilizing both marketing and production resources to create a captivating and appealing movie. Certainly, a movie's success is influenced by a multitude of factors beyond just pre-production and post-production elements. Some of these factors may include the quality of the script, the performance of the cast, the skill of the director, and the effectiveness of the marketing campaign.
 
 ## What did we learn from this project?
 1. Data Extraction & Cleaning
