@@ -11,7 +11,7 @@ The dataset we will be using is [**TMDB 5000 Movie Dataset**](https://www.kaggle
 
 ## Problem Definition
 Is it possible to predict the success of a movie based on pre and post production elements?
-Breaking Down the Problem:
+\n Breaking Down the Problem:
 1. Pre-production elements:
   + Budget
   + Director
