@@ -5,9 +5,9 @@ The aim of our project is to create a model that predicts whether a movie will b
 The dataset we will be using is [**TMDB 5000 Movie Dataset**](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from [Kaggle](https://www.kaggle.com/).
 
 ## Contributors
-1.
-2.
-3.
+1. Phan Nguyen
+2. Qiang Zhiqin
+3. Rachel Phuar 
 
 ## Problem statement
 1. Is it possible to predict the success of a movie based on pre and post production elements?
