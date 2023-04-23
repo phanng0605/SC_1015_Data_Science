@@ -25,7 +25,7 @@ Definition of "success" - Generated revenue is higher than budget spent to produ
 ### * Models used
 1. Linear Regression
 2. Extreme Gradient Boosting (XGBoost)
-
+![](https://pbs.twimg.com/media/EZoxHcoUcAEIXUW.jpg)
 ### * Library/packages
 1. Numpy
 2. Pandas
