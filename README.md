@@ -1,5 +1,7 @@
 # SC_1015_Data_Science
 ## Introduction
+![]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grandsierraresort.com%2Factivities%2Fgrand-sierra-cinema&psig=AOvVaw06F4pf19V7AB8BTBqPwgq6&ust=1682334065024000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC07PTsv_4CFQAAAAAdAAAAABAE))
+
 This is our (A132 Team 6) mini-project for SC1015 Data Science & Artificial Intelligence 2023.
 The aim of our project is to create a model that predicts whether a movie will be successful based on certain variables. 
 
